@@ -4,7 +4,7 @@ A fast, single-page web application that instantly converts **BibTeX** entries i
 <img width="1842" height="827" alt="image" src="https://github.com/user-attachments/assets/f51c2e02-3678-4b1e-b4ab-b5abc7425057" />
 <img width="1502" height="852" alt="image" src="https://github.com/user-attachments/assets/9e36cdd9-0561-44e6-a1b9-871fd4ec0f1f" />
 
-🔗 **Live Demo:** [your-demo-link.vercel.app](https://vercel.app)
+🔗 **Live Demo:** (https://busraydinn.github.io/bibtex-to-ieee-converter/)
 
 ---
 
